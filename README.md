@@ -1,2 +1,4 @@
-# Sayyed-Zesshan-Is-Better
-for MERNassignments and personal use
+I AM BETTER BECAUSE I AM....... idk i just am 
+
+
+DONT YOU FREAKING QUESTION MEEEEEEEEEEEEEEEEEEEE !!!!!!!!!!!!!!!!!!!!!!!!!!!
