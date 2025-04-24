@@ -62,7 +62,7 @@ class circles{
     }
 
     pageChange(){
-        this.circleDivHolder.style.backgroundColor=this.pageColors[this.crntNum];
+        //this.circleDivHolder.style.backgroundColor=this.pageColors[this.crntNum];
         this.pageDivHolder.style.backgroundColor=this.pageColors[this.crntNum];
         this.pageDivHolder.innerHTML= "<h1>"+(this.crntNum+1)+"</h1>";
         this.pageDivHolder.innerHTML+= "<p>Page "+(this.crntNum+1)+" of "+this.circleList.length+"</p>";
